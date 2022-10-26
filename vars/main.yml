@@ -1,0 +1,4 @@
+---
+# vars file for myapache
+package_name: httpd
+
